@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 master step1
+=======
+issue3 step1
+>>>>>>> issue3
