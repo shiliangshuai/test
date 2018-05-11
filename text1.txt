@@ -1,1 +1,1 @@
-ss3 stepx 1
+ss3 stepx 1 x1
